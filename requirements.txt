@@ -1,7 +1,7 @@
 aiohttp==1.0.5
 async-timeout==2.0.0
 asyncio==3.4.3
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.11.4
 chardet==3.0.4
 discord==0.0.2
